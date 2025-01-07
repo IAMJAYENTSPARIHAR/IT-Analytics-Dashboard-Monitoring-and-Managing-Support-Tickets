@@ -48,9 +48,7 @@ Comprehensive Analysis: Real-time metrics for ticket volume, resolution efficien
 Performance Tracking: Insights into SLA compliance and agent efficiency.
 🔧 Setup Instructions
 Clone the repository:
-bash
-Copy code
-git clone 
+git clone git clone https://github.com/IAMJAYENTSPARIHAR/IT-Analytics-Dashboard-Monitoring-and-Managing-Support-Tickets
 Open the Power BI file (IT_Analytics.pbix) to explore the dashboard.
 (Optional) Use the included scripts for data preprocessing.
 📖 Documentation
